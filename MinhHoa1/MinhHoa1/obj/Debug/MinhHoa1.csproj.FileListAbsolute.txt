@@ -1,0 +1,10 @@
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\bin\Debug\MinhHoa1.exe.config
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\bin\Debug\MinhHoa1.exe
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\bin\Debug\MinhHoa1.pdb
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\obj\Debug\MinhHoa1.csproj.AssemblyReference.cache
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\obj\Debug\MinhHoa1.Form1.resources
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\obj\Debug\MinhHoa1.Properties.Resources.resources
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\obj\Debug\MinhHoa1.csproj.GenerateResource.cache
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\obj\Debug\MinhHoa1.csproj.CoreCompileInputs.cache
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\obj\Debug\MinhHoa1.exe
+D:\Test_LT\Thanh\MinhHoa1\MinhHoa1\obj\Debug\MinhHoa1.pdb
